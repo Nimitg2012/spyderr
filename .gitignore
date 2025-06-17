@@ -1,2 +1,18 @@
+# macOS system files
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.env
+*.venv
+*.log
+
+# Virtual environments
 spyderr-venv/
+venv/
